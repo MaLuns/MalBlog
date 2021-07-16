@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>白云苍狗</title>
+  
+  <subtitle>白云苍狗的个人博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.imalun.com/"/>
+  <updated>2021-07-16T05:23:20.737Z</updated>
+  <id>https://www.imalun.com/</id>
+  
+  <author>
+    <name>白云苍狗</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>vscode 插件开发指北 (二)</title>
+    <link href="https://www.imalun.com/vscode_extension_two/"/>
+    <id>https://www.imalun.com/vscode_extension_two/</id>
+    <published>2021-06-17T20:19:04.000Z</published>
+    <updated>2021-07-16T05:23:20.737Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;接着上面的继续介绍一些常用的vscode 插件的配置和api。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.imalun.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="vscode" scheme="https://www.imalun.com/tags/vscode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vscode 插件开发指北 (一)</title>
+    <link href="https://www.imalun.com/vscode_extension/"/>
+    <id>https://www.imalun.com/vscode_extension/</id>
+    <published>2021-06-12T23:20:59.000Z</published>
+    <updated>2021-07-16T05:23:20.737Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近闲来无事，给公司框架做了开发代码片段提示和一些常用工具整合的插，在这里记录一下踩过的坑和一些常用的基本功能示例。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.imalun.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="vscode" scheme="https://www.imalun.com/tags/vscode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Flutter 中的动画</title>
+    <link href="https://www.imalun.com/flutter_animation/"/>
+    <id>https://www.imalun.com/flutter_animation/</id>
+    <published>2021-04-28T15:04:50.000Z</published>
+    <updated>2021-07-16T05:23:20.737Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Flutter 中动画的创建有很多种, 需要根据具体的需求选择不同的动画。如果只是简单的布局等的动画直接使用最简单的隐式动画就可以了，因为隐式动画是由框架控制的，所以仅仅只需要更改变需要变化属性就可以了。如果你想自己控制动画的变换则需要使用显示动画，如果需要控制一些列动画组合时使用交织动画去控制。如果内置的满足不了需求的时候，还可以结合画布自绘动画。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.imalun.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="Flutter" scheme="https://www.imalun.com/tags/Flutter/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MongoDB基础篇（一）</title>
+    <link href="https://www.imalun.com/mongodb_sql/"/>
+    <id>https://www.imalun.com/mongodb_sql/</id>
+    <published>2021-04-13T20:28:49.000Z</published>
+    <updated>2021-07-16T05:23:20.737Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;MongoDB 是一个介于关系数据库和非关系数据库之间的产品。面向文档的NoSQL的数据库，存储结构也非常自由，是类似json的bson格式，因此可以存储比较复杂的数据类型。其强大的查询语言几乎支持绝大部分关系数据的的查询的功能。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.imalun.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="MongoDB" scheme="https://www.imalun.com/tags/MongoDB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue 中的 mixin,component,render,hoc</title>
+    <link href="https://www.imalun.com/vue_hoc/"/>
+    <id>https://www.imalun.com/vue_hoc/</id>
+    <published>2021-03-02T20:26:25.000Z</published>
+    <updated>2021-07-16T05:23:20.737Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在项目中,一般我们经常会基于一套现有组件库进行快速开发,但是现实中往往需要对组件库进行定制化改造二次封装&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.imalun.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="vue" scheme="https://www.imalun.com/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记一次在Vue中使用 addEventListener 的坑</title>
+    <link href="https://www.imalun.com/vue_event_listener/"/>
+    <id>https://www.imalun.com/vue_event_listener/</id>
+    <published>2021-01-19T22:23:18.000Z</published>
+    <updated>2021-07-16T05:23:20.737Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近遇到一个需求,需要在单击单元格的时候,编辑单元格。乍一看很简单嘛,监听单元格事件,然后记录点击的rowIndex和prop,然后将对应的给成编辑状态。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.imalun.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="vue" scheme="https://www.imalun.com/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Flutter 常用小部件(一)</title>
+    <link href="https://www.imalun.com/flutter_basic_widget/"/>
+    <id>https://www.imalun.com/flutter_basic_widget/</id>
+    <published>2021-01-08T22:23:18.000Z</published>
+    <updated>2021-07-16T05:23:20.737Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Flutter 中所有的UI界面都是widget构建的。widget用来描述元素配置数据,然后会被渲染成对应UI界面。 当widget的状态修改时, 它会重新渲染UI。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.imalun.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="Flutter" scheme="https://www.imalun.com/tags/Flutter/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>keep-alive 与 router-view</title>
+    <link href="https://www.imalun.com/vue_keep_alive/"/>
+    <id>https://www.imalun.com/vue_keep_alive/</id>
+    <published>2020-12-07T20:07:05.000Z</published>
+    <updated>2021-07-16T05:23:20.737Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;keep-alive 用于缓存不活动的组件实例，router-view 一个 functional 组件，渲染路径匹配到的视图组件。这里对两者结合使用时遇到几种情况做个简单记录&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.imalun.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="vue" scheme="https://www.imalun.com/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>one-wallhaven 壁纸程序</title>
+    <link href="https://www.imalun.com/one_wallhaven/"/>
+    <id>https://www.imalun.com/one_wallhaven/</id>
+    <published>2020-11-06T18:37:08.000Z</published>
+    <updated>2021-07-16T05:23:20.737Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;基于 Electron + vue 的一个壁纸程序&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.imalun.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="vue" scheme="https://www.imalun.com/tags/vue/"/>
+    
+      <category term="electron" scheme="https://www.imalun.com/tags/electron/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Electron 的断点续下载</title>
+    <link href="https://www.imalun.com/file_download/"/>
+    <id>https://www.imalun.com/file_download/</id>
+    <published>2020-10-08T10:48:03.000Z</published>
+    <updated>2021-07-16T05:23:20.737Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近用 Electron 做了个壁纸程序，需要断点续下载，在这里记录一下。
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.imalun.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="vue" scheme="https://www.imalun.com/tags/vue/"/>
+    
+      <category term="electron" scheme="https://www.imalun.com/tags/electron/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>css 实现换肤几种方式</title>
+    <link href="https://www.imalun.com/css_theme/"/>
+    <id>https://www.imalun.com/css_theme/</id>
+    <published>2020-08-21T16:53:51.000Z</published>
+    <updated>2021-07-16T05:23:20.737Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;说起换肤功能，前端肯定不陌生，其实就是颜色值的更换，实现方式有很多，也各有优缺点&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.imalun.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="css" scheme="https://www.imalun.com/tags/css/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>git 中的 stash</title>
+    <link href="https://www.imalun.com/git_stash/"/>
+    <id>https://www.imalun.com/git_stash/</id>
+    <published>2020-08-13T20:07:05.000Z</published>
+    <updated>2021-07-16T05:23:20.737Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;当你分支1上修改了东西,你发现修改错了分支,你想将分支1上的修改移到分支2的时候会.亦或者你一分支1上修改了一半,这个时候需要切的其他分支改其他的时候.这个时候 stash 就排上用场了,stash 命令可用于临时保存和回复修改，可跨分支。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.imalun.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="git" scheme="https://www.imalun.com/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vue 使用中的小技巧 （一）</title>
+    <link href="https://www.imalun.com/vue_use1/"/>
+    <id>https://www.imalun.com/vue_use1/</id>
+    <published>2020-08-03T20:07:05.000Z</published>
+    <updated>2021-07-16T05:23:20.737Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在vue的使用过程中会遇到各种场景，当普通使用时觉得没什么，但是或许优化一下可以更高效更优美的进行开发。下面有一些我在日常开发的时候用到的小技巧&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.imalun.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="vue" scheme="https://www.imalun.com/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于 CloudBase 实现静态博客评论 （一）</title>
+    <link href="https://www.imalun.com/cloudbase_comment/"/>
+    <id>https://www.imalun.com/cloudbase_comment/</id>
+    <published>2020-06-08T22:50:29.000Z</published>
+    <updated>2021-07-16T05:23:20.737Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;使用CloudBase给静态博客添加评论功能&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.imalun.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="node" scheme="https://www.imalun.com/tags/node/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>node 实现简单 http 转发</title>
+    <link href="https://www.imalun.com/node_proxy/"/>
+    <id>https://www.imalun.com/node_proxy/</id>
+    <published>2020-05-12T17:50:55.000Z</published>
+    <updated>2021-07-16T05:23:20.737Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;由于同源策略的限制，前端想要随便调用别人的数据没有那么容易，利用jsonp去调用虽然可以，但是也得别人支持，而且还只能是get 请求。想要随便调用别人数据，最简单就是弄一个代理服务，实现数据的转发。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.imalun.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="node" scheme="https://www.imalun.com/tags/node/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Web Components</title>
+    <link href="https://www.imalun.com/web_components/"/>
+    <id>https://www.imalun.com/web_components/</id>
+    <published>2020-05-10T10:16:09.000Z</published>
+    <updated>2021-07-16T05:23:20.737Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;组件是前端的发展方向，现在流行的 React 和 Vue 都是组件框架。如今Web Components被越来越多的浏览器所支持,Web Components或许是未来的方向。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.imalun.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="WebComponents" scheme="https://www.imalun.com/tags/WebComponents/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>从零开始搭建一个后台模板</title>
+    <link href="https://www.imalun.com/admin_template/"/>
+    <id>https://www.imalun.com/admin_template/</id>
+    <published>2020-04-15T10:16:09.000Z</published>
+    <updated>2021-07-16T05:23:20.737Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;闲来没事，又开始造轮子玩玩了，用vue + element-ui 撸个后台模板。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.imalun.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="vue" scheme="https://www.imalun.com/tags/vue/"/>
+    
+      <category term="vuex" scheme="https://www.imalun.com/tags/vuex/"/>
+    
+      <category term="vue-route" scheme="https://www.imalun.com/tags/vue-route/"/>
+    
+      <category term="elemelt-ui" scheme="https://www.imalun.com/tags/elemelt-ui/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>css 实现网页灰度</title>
+    <link href="https://www.imalun.com/css_filter/"/>
+    <id>https://www.imalun.com/css_filter/</id>
+    <published>2020-04-04T20:38:27.000Z</published>
+    <updated>2021-07-16T05:23:20.737Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天为表达全国各族人民对抗击新冠肺炎疫情斗争牺牲烈士和逝世同胞的深切哀悼，各大网站也纷纷将界面弄成黑白以示哀悼。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.imalun.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="css" scheme="https://www.imalun.com/tags/css/"/>
+    
+      <category term="filter" scheme="https://www.imalun.com/tags/filter/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue2.0 响应式部分源码阅读记录</title>
+    <link href="https://www.imalun.com/js_vue/"/>
+    <id>https://www.imalun.com/js_vue/</id>
+    <published>2020-03-06T20:38:27.000Z</published>
+    <updated>2021-07-16T05:23:20.737Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;之前也用了一段时间Vue，对其用法也较为熟练了，但是对各种用法和各种api使用都是只知其然而不知其所以然。最近利用空闲时间尝试的去看看Vue的源码，以便更了解其具体原理实现，跟着学习学习。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.imalun.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="vue" scheme="https://www.imalun.com/tags/vue/"/>
+    
+      <category term="observer" scheme="https://www.imalun.com/tags/observer/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript中的 [[prototype]]、prototype、__proto__ 关系</title>
+    <link href="https://www.imalun.com/js_prototype/"/>
+    <id>https://www.imalun.com/js_prototype/</id>
+    <published>2020-03-03T10:16:09.000Z</published>
+    <updated>2021-07-16T05:23:20.737Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;说到 prototype、__proto__ 首先就得去理解 JavaScript 语言的继承机制。在典型的面向对象的语言中，如C#，都存在类（class）的概念, 类就是对象的模板，对象就是类的实例。C# 中的 继承允许我们根据一个类来定义另一个类，这使得创建和维护应用程序变得更容易。同时也有利于重用代码和节省开发时间。在 JavaScript 是不存在 类 和 子类 概念的,全靠原型链的模式来实现继承 (后面出class在这基础上的语法糖)。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.imalun.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="JavaScript" scheme="https://www.imalun.com/tags/JavaScript/"/>
+    
+  </entry>
+  
+</feed>
